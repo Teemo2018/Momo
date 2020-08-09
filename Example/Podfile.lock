@@ -1,0 +1,16 @@
+PODS:
+  - Momo (0.1.0)
+
+DEPENDENCIES:
+  - Momo (from `../`)
+
+EXTERNAL SOURCES:
+  Momo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Momo: 7a895185672dfd253a718a76ead15885174a2387
+
+PODFILE CHECKSUM: 24c4284bff95fed4f6fe26fea264b444afd0a42e
+
+COCOAPODS: 1.9.3

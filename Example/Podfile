@@ -1,0 +1,10 @@
+use_frameworks!
+use_modular_headers!
+
+target 'Momo_Example' do
+  pod 'Momo', :path => '../'
+
+  target 'Momo_Tests' do
+    inherit! :search_paths
+  end
+end
